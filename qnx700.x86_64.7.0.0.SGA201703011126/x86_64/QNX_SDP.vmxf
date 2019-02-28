@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 43 2c a6 ac 01 75 da-a5 90 09 1c 33 5d 66 a8</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">QNX_SDP7.vmx</vmxPathName></VM></Foundry>
